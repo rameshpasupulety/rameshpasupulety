@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh Pasupulety</h1>
 <h3 align="center">Ramesh is a passionate DevOps Engineer from India, working on cloud and DevOps.</h3>
 
-<img align="right" alt="coding" width="400" src="https://paradox.ba/paradox/wp-content/uploads/2019/09/4paradox-animation.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 - 🌱 I’m currently learning **DeVops and Aws**
 
