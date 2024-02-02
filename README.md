@@ -1,5 +1,3 @@
-[**Watch my intro video!**](https://www.shutterstock.com/shutterstock/videos/1106297077/preview/stock-footage-streamlining-transactions-of-smart-contracts-using-blockchain-technology-animation-rendering.webm)
-
 
 
 <h1 align="center">Hi 👋, I'm Ramesh Pasupulety</h1>
