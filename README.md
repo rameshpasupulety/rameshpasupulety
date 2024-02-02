@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh Pasupulety</h1>
 <h3 align="center">Ramesh is a passionate DevOps Engineer from India, working on cloud and DevOps.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
 - 🌱 I’m currently learning **DeVops and Aws**
 
